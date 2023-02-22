@@ -4,7 +4,7 @@
  - 🌱 I’m currently learning Node.js, Rect.js, ML, AI
  - 📫 How to reach me: 
      - Gmail : rasdhidmrck@gmail.com
-     - LinkedIn : https://www.linkedin.com/in/mohammed-rashid-c-k-4812321aa/
+     - LinkedIn : www.linkedin.com/in/rashidmrck/
      - Twitter : https://twitter.com/Rashidmrck
      - Instagram : https://www.instagram.com/rashidmrck/
 
