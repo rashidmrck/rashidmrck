@@ -5,7 +5,7 @@
  - 📫 How to reach me: 
      - Gmail : rasdhidmrck@gmail.com
      - LinkedIn : www.linkedin.com/in/rashidmrck/
-     - Twitter : https://twitter.com/Rashidmrck
+     - Twitter : https://twitter.com/rashidmrck
      - Instagram : https://www.instagram.com/rashidmrck/
 
 <!--
